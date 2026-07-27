@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+}
+
+#root {
+  padding: 10px;
+}
+
+nav {
+  background: #ddd;
+  padding: 8px 12px;
+  margin-bottom: 12px;
+}
+
+nav a {
+  margin-right: 8px;
+}
+
+h2 {
+  margin-top: 0;
+}
